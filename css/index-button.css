@@ -49,6 +49,8 @@ button.menuButton {
     height: 3vh;
     opacity: 0.5;
     margin: auto;
+
+    position: relative;
 }
 
 /*메뉴 이름*/
