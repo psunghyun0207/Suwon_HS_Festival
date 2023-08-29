@@ -22,7 +22,7 @@
 /*메뉴 이미지간 간격*/
 .menu{
     display: inline-block;
-    width: 9vh;
+    width: 10vh;
     height: 10vh;
 }
 
@@ -51,6 +51,7 @@ button.menuButton {
     margin: auto;
 
     position: relative;
+    top: 1px;
 }
 
 /*메뉴 이름*/
